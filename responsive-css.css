@@ -30,3 +30,69 @@ h4 {
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
+.dot {
+    height: 105px;
+    width: 105px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    border:  #f0f0f0 solid 5px;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    padding-top: 2em;
+    color: #f0f0f0;
+    font-family: 'Anton' ,sans-serif;
+}
+
+#design-dot{
+    background-color: #e6563b;
+
+}
+#develop-dot{
+    background-color: #eb9d3a;
+}
+#support-dot{
+    background-color: #7cb06c ;
+}
+#host-dot{
+    background-color: #00aba9;
+}
+hr{
+    height: 6px;
+}
+img {
+    width: 250px;
+    height: 175px;
+}
+h6 {
+    font-family: 'Abel', sans-serif;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+.small-dots{
+    height: 30px;
+    width: 30px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    border:  #f0f0f0 solid 5px;
+}
+.small-d-dots{
+    background-color: #e6563b;
+    margin-left: 3em;
+}
+.small-de-dots{
+    background-color: #eb9d3a;
+}
+.small-s-dots{
+    background-color: #7cb06c ;
+}
+.small-h-dots{
+    background-color: #00aba9;
+}
+p {
+    font-family: 'Abel', sans-serif;
+    font-size: 12px;
+}

@@ -62,26 +62,34 @@ hr{
     height: 6px;
 }
 img {
-    width: 250px;
-    height: 175px;
+    width: 100%;
+    height: 150px;
 }
 h6 {
     font-family: 'Abel', sans-serif;
     margin-top: 3em;
     margin-bottom: 2em;
 }
+h5 {
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+}
 
 .small-dots{
-    height: 30px;
-    width: 30px;
+    height: 25px;
+    width: 25px;
+    font-size: 10px;
+    font-family: 'Anton' , sans-serif;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
     border:  #f0f0f0 solid 5px;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
 }
 .small-d-dots{
     background-color: #e6563b;
-    margin-left: 3em;
 }
 .small-de-dots{
     background-color: #eb9d3a;
@@ -95,4 +103,14 @@ h6 {
 p {
     font-family: 'Abel', sans-serif;
     font-size: 12px;
+}
+
+.featured-products {
+    font-family: 'Abel', sans-serif;
+    font-size: 12px;
+}
+
+.left-side-image {
+    width: 55px;
+    height: 55px;
 }

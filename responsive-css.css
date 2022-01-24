@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.logo {
+    width: 105px;
+    height: 105px;
+}
+
+.codeup-design-title {
+    font-size: 32px;
+    font-weight: lighter;
+    font-family: 'Abel', sans-serif;
+}
+
+#left-side-nav {
+    list-style-type: none;
+}
+
+#right-side-nav {
+    list-style-type: none;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}

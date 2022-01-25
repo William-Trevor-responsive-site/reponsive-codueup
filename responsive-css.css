@@ -114,3 +114,10 @@ p {
     width: 55px;
     height: 55px;
 }
+
+header  {
+    height: 30px;
+    background-color: black;
+    width: 100%;
+    margin-top: 50px;
+}
